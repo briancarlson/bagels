@@ -1,19 +1,15 @@
-Shad:     Plain bagel, ham, egg, cheddar
-Evan:     Plain bagel, ham, egg, cheddar
 Xiangkui: Plain bagel, ham, egg, cheddar
 
 Sarah:    Plain bagel,         sausage, egg, cheddar
 Charlie:  Plain bagel,         sausage, egg, cheddar
 Jayna:    Plain bagel,         sausage, egg, cheddar
 Lara:     Sesame bagel,	       sausage, egg, cheddar
-Jimmy:    Asiago cheese bagel, sausage, egg, cheddar
 Lily:     Onion bagel,         sausage, egg, mozzarella
 
 Kipp:     Plain bagel,         bacon, egg, cheddar
 Aaron:    Asiago cheese bagel, bacon, egg, cheddar
 
 Josh:     Cheese bagel, egg, cheddar
-Martin:   Asiago cheese bagel, bacon, sausage, egg, cheddar
 Julian:   Everything bagel, sausage, bacon, egg, cheddar
 Mike:     Everything bagel, veggie sausage, egg, cheddar
 Curtie:   Plain bagel, sprouts, sausage, ham, egg, cheddar
