@@ -4,23 +4,24 @@ Xiangkui: Plain bagel, ham, egg, cheddar
 
 Sarah:    Plain bagel,         sausage, egg, cheddar
 Charlie:  Plain bagel,         sausage, egg, cheddar
-Jayna:    Plain bagel,         sausage, egg, cheddar
 Lara:     Sesame bagel,	       sausage, egg, cheddar
 Lily:     Onion bagel,         sausage, egg, mozzarella
 Jimmy:    Asiago cheese bagel, sausage, egg, cheddar
 
 Kipp:     Plain bagel,         bacon, egg, cheddar
-Aaron:    Asiago cheese bagel, bacon, egg, cheddar
+Jared:    Everything bagel,    bacon, egg, cheddar
 
-Josh:     Cheese bagel, egg, cheddar
-Julian:   Everything bagel,    bacon, sausage, egg, cheddar
+Renee:    Plain bagel,         egg, cheddar
+Josh:     Cheese bagel,        egg, cheddar
+Julian:   Blueberry bagel,     lox, cream cheese
 Martin:   Asiago cheese bagel, bacon, sausage, egg, cheddar
-Mike:     Everything bagel, veggie sausage, egg, cheddar
-Curtie:   Plain bagel, sprouts, sausage, ham, egg, cheddar
+Mike:     Everything bagel,    veggie sausage, egg, cheddar
+Curtie:   Plain bagel,         sprouts, sausage, ham, egg, cheddar
+Aaron:    Asiago cheese bagel, pizza, pepperoni, tomato, onion, olive
 
-Dave:     Cinnamon raisin bagel (toasted), butter
-Brian:    Garlic bagel, hot ham and swiss
-Garrett:  Onion bagel, Lox smoked salmon sandwich
+Brian:    Garlic bagel,     hot ham and swiss
+Garrett:  Onion bagel,      lox smoked salmon sandwich
+Brunson:  Everything bagel, veggie sandwich
 
 Please have bagels ready to pick up at 9:15.
 Thanks :)
