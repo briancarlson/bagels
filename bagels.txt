@@ -17,8 +17,9 @@ Martin:   Asiago cheese bagel, bacon, sausage, egg, cheddar
 Curtie:   Plain bagel,         sprouts, sausage, ham, egg, cheddar
 Aaron:    Asiago cheese bagel, pizza, pepperoni, tomato, onion, olive
 
-Garrett:  Onion bagel,      lox smoked salmon sandwich
-Brunson:  Everything bagel, veggie sandwich
+Garrett:  Onion bagel,           lox smoked salmon sandwich
+Brunson:  Everything bagel,      veggie sandwich
+Matt:     Cinnamon raisin bagel, cream cheese
 
 Please have bagels ready to pick up at 9:15.
 Thanks :)
