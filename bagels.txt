@@ -1,23 +1,27 @@
+Contact: Martin - (617) 530-0825
+
+
 Shad:     Plain bagel, ham, egg, cheddar
 Evan:     Plain bagel, ham, egg, cheddar
 Xiangkui: Plain bagel, ham, egg, cheddar
 
-Sarah:    Plain bagel,         sausage, egg, cheddar
-Charlie:  Plain bagel,         sausage, egg, cheddar
-Jayna:    Plain bagel,         sausage, egg, cheddar
-Lara:     Sesame bagel,	       sausage, egg, cheddar
-Jimmy:    Asiago cheese bagel, sausage, egg, cheddar
+Sarah:    Plain bagel,           sausage, egg, cheddar
+Charlie:  Plain bagel,           sausage, egg, cheddar
+Jayna:    Plain bagel,           sausage, egg, cheddar
+Lara:     Sesame bagel,	         sausage, egg, cheddar
+Jimmy:    Asiago cheese bagel,   sausage, egg, cheddar
 
-Jared:    Everything bagel,    bacon, egg, cheddar
+Dag:      Jalapeno cheese bagel, sausage, egg
+Jared:    Everything bagel,      bacon, egg, cheddar
+Martin:   Asiago cheese bagel,   bacon, sausage, egg, cheddar
+Josh:     Cheese bagel,          egg, cheddar
 
-Josh:     Cheese bagel,        egg, cheddar
-Julian:   Wildberry bagel,     lox, cream cheese
-Martin:   Asiago cheese bagel, bacon, sausage, egg, cheddar
-Curtie:   Jalapeno bagel,      sprouts, sausage, egg, cheddar
-Mike:     Everything bagel,    veggie sausage, egg, cheddar
-Aaron:    Asiago cheese bagel, pizza, pepperoni, tomato, onion, olive
+Julian:   Blueberry bagel,       lox, cream cheese
+Curtie:   Jalapeno bagel,        sprouts, sausage, egg, cheddar
+Mike:     Everything bagel,      veggie sausage, egg, cheddar
 
-Brian:    Garlic bagel,          hot ham and swiss, add bacon, add onion
+Aaron:    Asiago cheese bagel,   pizza bagel sandwich w/ pepperoni, tomato, onion, olive
+Brian:    Garlic bagel,          hot ham and swiss melt w/ bacon, onion
 Larry:    Salt bagel,		 lox smoked salmon sandwich
 Garrett:  Onion bagel,           lox smoked salmon sandwich
 Lily:     Everything bagel,      lox smoked salmon sandwich
