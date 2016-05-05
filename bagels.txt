@@ -9,6 +9,7 @@ Sarah:    Plain bagel,           sausage, egg, cheddar
 Charlie:  Plain bagel,           sausage, egg, cheddar
 Jayna:    Plain bagel,           sausage, egg, cheddar
 Jimmy:    Asiago cheese bagel,   sausage, egg, cheddar
+Lara:     Sesame bagel,	         sausage, egg, cheddar
 
 Dag:      Jalapeno cheese bagel, sausage, egg
 Jared:    Everything bagel,      bacon, egg, cheddar
@@ -23,7 +24,6 @@ Aaron:    Asiago cheese bagel,   pizza bagel sandwich w/ pepperoni, tomato, onio
 Brian:    Garlic bagel,          hot ham and swiss melt w/ bacon, onion
 Larry:    Salt bagel,		 lox smoked salmon sandwich
 Garrett:  Onion bagel,           lox smoked salmon sandwich
-Lily:     Everything bagel,      lox smoked salmon sandwich
 Brunson:  Everything bagel,      veggie sandwich
 Matt:     Cinnamon raisin bagel, cream cheese
 
