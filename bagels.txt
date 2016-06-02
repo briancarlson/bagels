@@ -15,7 +15,6 @@ Dag:      Jalapeno cheese bagel, sausage, egg
 Jared:    Everything bagel,      bacon, egg, cheddar
 Josh:     Cheese bagel,          egg, cheddar
 
-Julian:   Blueberry bagel,       lox, cream cheese
 Curtie:   Jalapeno bagel,        sprouts, sausage, egg, cheddar
 Martin:   Asiago cheese bagel,   sprouts, egg, cheddar
 Mike:     Everything bagel,      veggie sausage, egg, cheddar
@@ -24,6 +23,7 @@ Aaron:    Asiago cheese bagel,   pizza bagel sandwich w/ pepperoni, tomato, onio
 Brian:    Garlic bagel,          hot ham and swiss melt w/ bacon, onion
 Larry:    Salt bagel,		 lox smoked salmon sandwich
 Garrett:  Onion bagel,           lox smoked salmon sandwich
+Lily:     Everything bagel,      lox smoked salmon sandwich
 Brunson:  Everything bagel,      veggie sandwich
 Matt:     Cinnamon raisin bagel, cream cheese
 
