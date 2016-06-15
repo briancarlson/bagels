@@ -16,15 +16,19 @@ Jared:    Everything bagel,      bacon, egg, cheddar
 Josh:     Cheese bagel,          egg, cheddar
 
 Curtie:   Jalapeno bagel,        sprouts, sausage, egg, cheddar
-Martin:   Asiago cheese bagel,   sprouts, egg, cheddar
 Mike:     Everything bagel,      veggie sausage, egg, cheddar
 
+Curtis:   Asiago cheese bagel,   pizza bagel sandwich w/ pepperoni, tomato, onion, olive
 Aaron:    Asiago cheese bagel,   pizza bagel sandwich w/ pepperoni, tomato, onion, olive
 Brian:    Garlic bagel,          hot ham and swiss melt w/ bacon, onion
 Larry:    Salt bagel,		 lox smoked salmon sandwich
 Garrett:  Onion bagel,           lox smoked salmon sandwich
 Lily:     Everything bagel,      lox smoked salmon sandwich
+Martin:   Asiago cheese bagel,   veggie sandwich
 Brunson:  Everything bagel,      veggie sandwich
+Maria:    Plain bagel,           veggie sandwich w/ sausage
+
+Sophie:   Plain bagel,           cream cheese
 Matt:     Cinnamon raisin bagel, cream cheese
 
 Thanks :)
