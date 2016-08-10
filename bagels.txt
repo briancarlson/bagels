@@ -14,21 +14,16 @@ Aaron:    Asiago cheese bagel,   pizza bagel sandwich w/ pepperoni, tomato, onio
 
 Mike:     Everything bagel,      veggie sausage, egg, cheddar
 Jayna:    Plain bagel,           sausage, egg, cheddar
-Prajna:	  Gluten free            veggie sandwich
 Joanne:   Gluten free            veggie sandwich
 
 Curtis:   Asiago cheese bagel,   pizza bagel sandwich w/ pepperoni, tomato, onion, olive
-Matt:     Cinnamon raisin bagel, cream cheese
+Matt:     Plain bagel,		 sausage, egg, cheddar
 Brian:    Garlic bagel,          hot ham and swiss melt w/ bacon, onion
-Julian:   Blueberry bagel,       just lox & plain cream chees
+Julian:   Blueberry bagel,       just lox & plain cream cheese
 Martin:   Asiago cheese bagel,   veggie sandwich
-Scott:    Cinnamon donut
 
 Larry:    Salt bagel,		 lox smoked salmon sandwich
-Pietro:   Everything bagel       plain cream cheese.
-
-Maria:    Plain bagel,           veggie sandwich w/ sausage
-Sophie:   Plain bagel,           cream cheese
+Pietro:   Everything bagel       plain cream cheese
 
 
 Thanks :)
